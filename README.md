@@ -88,11 +88,10 @@ These visualizations help understand trends and relationships within the dataset
 ```
 IMDb-Data-Analysis/
 │
+├── README.md
 ├── project_imdb.ipynb
 ├── movies.csv
-├── README.md
-└── images/ (optional)
-```
+
 
 ---
 
