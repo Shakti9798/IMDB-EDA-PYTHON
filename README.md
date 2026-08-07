@@ -112,10 +112,8 @@ pip install pandas numpy matplotlib seaborn
 3. Open the notebook
 
 ```bash
-jupyter notebook
+Google Colab
 ```
-
-or open it directly in Google Colab.
 
 ---
 
