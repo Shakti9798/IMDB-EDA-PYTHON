@@ -134,6 +134,7 @@ Google Colab
 
 - GitHub: https://github.com/Shakti9798
 - LinkedIn: https://www.linkedin.com/in/shakti-bhushan-mishra
+- E-mail: shaktibhushanmishra@gmail.com
 
 ---
 
