@@ -32,7 +32,7 @@ The dataset contains information about IMDb movies, including:
 - NumPy
 - Matplotlib
 - Seaborn
-- Google Colab / Jupyter Notebook
+- Google Colab 
 
 ---
 
