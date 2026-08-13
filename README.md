@@ -93,15 +93,6 @@ IMDb-Data-Analysis/
 ├── movies.csv
 
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Shakti9798/IMDb-Data-Analysis.git
-```
 
 2. Install the required libraries
 
