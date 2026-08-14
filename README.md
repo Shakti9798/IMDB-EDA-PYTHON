@@ -94,13 +94,13 @@ IMDb-Data-Analysis/
 
 
 
-2. Install the required libraries
+. Install the required libraries
 
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
 
-3. Open the notebook
+. Open the notebook
 
 ```bash
 Google Colab
