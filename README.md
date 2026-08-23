@@ -62,7 +62,7 @@ The project includes:
 
 Some of the visualizations include:
 
-- Line Chart
+- Line Charts
 - Bar Charts
 - Count Plots
 - Histograms
