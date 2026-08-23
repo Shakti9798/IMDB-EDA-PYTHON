@@ -62,6 +62,7 @@ The project includes:
 
 Some of the visualizations include:
 
+- Line Chart
 - Bar Charts
 - Count Plots
 - Histograms
