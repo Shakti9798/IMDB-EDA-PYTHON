@@ -186,6 +186,7 @@ Aspiring **Data Analyst / Data Scientist**
 ### 🔗 Connect with Me
 
 * GitHub: **Shakti9798**
+* LinkedIn: **www.linkedin.com/in/shakti-bhushan-mishra**
 
 ---
 
