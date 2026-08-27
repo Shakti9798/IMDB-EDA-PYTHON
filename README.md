@@ -187,6 +187,7 @@ Aspiring **Data Analyst / Data Scientist**
 
 * GitHub: **Shakti9798**
 * LinkedIn: **www.linkedin.com/in/shakti-bhushan-mishra**
+* Email: **shaktibhushanmishra@gmail.com**
 
 ---
 
