@@ -121,8 +121,8 @@ This project provides insights into:
 ```text
 IMDb-Data-Analysis-Python/
 │
-├── imdb_data_analysis.ipynb
 ├── README.md
+├── imdb_data_analysis.ipynb
 └── dataset/
 ```
 
