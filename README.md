@@ -126,37 +126,6 @@ IMDb-Data-Analysis-Python/
 └── dataset/
 ```
 
----
-
-## 🚀 How to Run the Project
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-2. Navigate to the project directory.
-
-```bash
-cd your-repository-name
-```
-
-3. Install the required libraries.
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-4. Open Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-5. Open the `imdb_data_analysis.ipynb` file and run the cells.
-
----
 
 ## 📚 Skills Demonstrated
 
