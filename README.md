@@ -17,7 +17,7 @@ In this updated version of the project, I have added **additional analytical que
 * **NumPy** – Numerical operations
 * **Matplotlib** – Data visualization
 * **Seaborn** – Statistical and advanced visualizations
-* **Jupyter Notebook**
+* **Google Colab**
 
 ---
 
